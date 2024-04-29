@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME : A K PREETHI
+## REG NO: 212223230156
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
